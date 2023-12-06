@@ -59,4 +59,3 @@ Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
 
 - [Utkalp Digital Classes](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-- [Data Science Blog](https://medium.com/@shawhin)
