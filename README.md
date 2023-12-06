@@ -4,7 +4,7 @@
 
 ## Education
 - Ph.D., Computer Science | School of Computing, University of Utah (_August 2022_)								       				        		
-- B.S. & M.S., Physics | Indian Institute of Science Education and Research, Thiruvananthapuram (_July 2020_)
+- B.S. & M.S., Mathematics | Indian Institute of Science Education and Research, Thiruvananthapuram (_July 2020_)
 
 ## PROFESSIONAL Experience
 **Aryabhata-HoMI Fellow @ IIT Gandhinagar, Palaj (_May 2022 - Aug 2023_)**
