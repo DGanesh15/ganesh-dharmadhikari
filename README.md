@@ -1,12 +1,12 @@
 # PhD student at the School of Computing
 
-#### Technical Skills: MATLAB, R, C, MATHEMATICA, SAGE, Python
+#### COMPUTATIONAL SKILLS: LaTeX, MATLAB, R, C, MATHEMATICA, SAGE, Python (NumPy, Pandas, basics of Tensorflow and Pytorch)
 
-## Education
-- Ph.D., Computer Science | School of Computing, University of Utah (_August 2022_)								       				        		
+## EDUCATION:
+- Ph.D., Computer Science | School of Computing, University of Utah (_August 2023_)								       				        		
 - B.S. & M.S., Mathematics | Indian Institute of Science Education and Research, Thiruvananthapuram (_July 2020_)
 
-## PROFESSIONAL Experience
+## PROFESSIONAL EXPERIENCE:
 **Aryabhata-HoMI Fellow @ IIT Gandhinagar, Palaj (_May 2022 - Aug 2023_)**
 - Worked on a new algorithm to solve Pell’s equations.
 - Attempted to bridge Ancient Indian Mathematics to Modern Mathematics, especially in algebraic and number-theoretical viewpoints, under the guidance of Prof. Indranath Sengupta and Prof. Michel Danino.
@@ -18,18 +18,17 @@
 - Worked on the project ‘Computing Farey Codes and Invariants of Finite Index Subgroups of Modular Group’.
 - Served as a technical committee member of ‘A Trimester Program on Triangle Groups, Belyi Uniformization, and Modularity’ to handle invitations, website, maintaining schedule, talks, and meetings.
 
-## Projects
+## RESEARCH PROJECTS:
 ### Some Problems in Number Fields
-
-Studied Kummer Theory and also worked on the refinement of Gauss’ Theorem on Primitive Roots. Also, solved
+Studied Kummer Theory and worked on the refinement of Gauss’ Theorem on Primitive Roots. Also, solved
 the problem of balancing the centrifuge by drawing references from research papers on the vanishing sums of
 distinct roots of unity.
-
 
 ### Topological Insulators
 Studied Berry Phase and Berry Connection for discrete as well as continuum cases and solved some interesting unsolved problems on the same topic.
 
-## PRACTICAL EXPERIENCE IN RESEARCH CENTERS:
+
+## INTERNSHIPS:
 **Research Intern @ IISER, Thiruvananthapuram (_June 2019 - July 2019_)**
 - **Beal’s Conjecture and Fermat’s Theorem**
 - Studied a constructive proof of Beal’s conjecture by Nicholas J. Daras, ‘Primitive integral solutions to 𝑥2 + 𝑦3 = 𝑧10 by David Brown’ and the ‘special case of the generalized Fermat equation 𝑥2 + 𝑦3 = 𝑧15 by Samir Siksek and Michael Stoll’.
@@ -40,7 +39,9 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 - Discussed general themes and problems in Algebraic Number Theory.
 
 
-## RELEVANT COURSES
+## RELEVANT COURSES:
+- Modern Cryptography, Dec. 2023.
+- Cyberphysical Systems and Internet Of Things, Dec. 2023.
 - Deep Learning and AI, GUVI, ongoing.
 - Neural Networks and Deep Learning, Coursera, Nov. 2023.
 - Classical Cryptosystems and Core Concepts, Coursera, July 2023.
@@ -57,5 +58,7 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 3. Attended and won the first prize for group presentation during Summer School on Econometrics and Machine
 Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
-
-- [Utkalp Digital Classes](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+## BLOGS AND WEBSITES:
+- [LinkedIn]([https://www.linkedin.com/in/ganesh-dharmadhikari-799963119/])
+- [Utkalp Digital Classes]([https://www.youtube.com/@UtkalpDigitalClasses])
+- [ENRICHED?]([https://samvganesh.blogspot.com/])
