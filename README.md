@@ -59,6 +59,6 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
 ## BLOGS AND WEBSITES:
-- [LinkedIn]([https://www.linkedin.com/in/ganesh-dharmadhikari-799963119/])
-- [Utkalp Digital Classes]([https://www.youtube.com/@UtkalpDigitalClasses])
-- [ENRICHED?]([https://samvganesh.blogspot.com/])
+- [LinkedIn Profile](https://www.linkedin.com/in/ganesh-dharmadhikari-799963119/)
+- [My YouTube Channel: Utkalp Digital Classes]([https://www.youtube.com/@UtkalpDigitalClasses])
+- [My Blog: ENRICHED?]([https://samvganesh.blogspot.com/])
