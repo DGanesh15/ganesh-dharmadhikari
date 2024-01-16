@@ -31,7 +31,7 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 ## INTERNSHIPS:
 **Research Intern @ IISER, Thiruvananthapuram (_June 2019 - July 2019_)**
 - **Beal’s Conjecture and Fermat’s Theorem**
-- Studied a constructive proof of Beal’s conjecture by Nicholas J. Daras, ‘Primitive integral solutions to 𝑥2 + 𝑦3 = 𝑧10 by David Brown’ and the ‘special case of the generalized Fermat equation 𝑥2 + 𝑦3 = 𝑧15 by Samir Siksek and Michael Stoll’.
+- Studied a constructive proof of Beal’s conjecture by Nicholas J. Daras, ‘Primitive integral solutions to 𝑥^2 + 𝑦^3 = 𝑧^10 by David Brown’ and the ‘special case of the generalized Fermat equation 𝑥^2 + 𝑦^3 = 𝑧^15 by Samir Siksek and Michael Stoll’.
 
 **Research Intern @ Bhaskaracharya Pratishthana, Pune (_June 2018 - July 2018_)**
 - **Algebraic Number Theory**
