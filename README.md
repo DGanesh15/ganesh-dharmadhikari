@@ -8,7 +8,7 @@
 
 ## PROFESSIONAL EXPERIENCE:
 **Aryabhata-HoMI Fellow @ IIT Gandhinagar, Palaj (_May 2022 - Aug 2023_)**
-- Worked on a new algorithm to solve Pell’s equations.
+- Worked with experts on a new algorithm to solve Pell’s equations.
 - Attempted to bridge Ancient Indian Mathematics to Modern Mathematics, especially in algebraic and number-theoretical viewpoints, under the guidance of Prof. Indranath Sengupta and Prof. Michel Danino.
 - Involved in scripting informative video series and writing booklets for the HoMI(History of Mathematics in India) project.
 
