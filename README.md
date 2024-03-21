@@ -39,18 +39,8 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 - Discussed general themes and problems in Algebraic Number Theory.
 
 
-## RELEVANT COURSES:
-- Modern Cryptography, Dec. 2023.
-- Cyberphysical Systems and Internet Of Things, Dec. 2023.
-- Deep Learning and AI, GUVI, ongoing.
-- Neural Networks and Deep Learning, Coursera, Nov. 2023.
-- Classical Cryptosystems and Core Concepts, Coursera, July 2023.
-- Training Program on Data Science, the Department of Mathematics and Lokmanya Tilak Chair, Savitribai Phule Pune University, March 7 to August 28, 2022.
-- Blockchain Basics, Coursera, May 2022.
-- Asymmetric Cryptography and Key Management, Coursera, Feb. 2022.
-- Cryptography I, Coursera, March 2022.
-- Advanced Diploma in Information Technology (with scholarship), AIERA, May 2013.
-
+## TEACHING or TEACHING ASSISTANTSHIPS(T.A.):
+- T.A. for the course [CS2100: DISCRETE STRUCTURES](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1244/description.html?subj=CS&catno=2100&section=001), Spring 2024
 
 ## ACHIEVEMENTS AND PARTICIPATIONS:
 1. Awarded the ‘Aryabhata-HoMI Fellowship’ for research in Mathematics, May 2022 - August 2023.
