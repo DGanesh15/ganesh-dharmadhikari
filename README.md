@@ -40,7 +40,7 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 
 
 ## TEACHING or TEACHING ASSISTANTSHIPS(T.A.):
-- T.A. for the course [CS2100: DISCRETE STRUCTURES](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1244/description.html?subj=CS&catno=2100&section=001), Spring 2024
+- T.A. for the course [CS2100: DISCRETE STRUCTURES](https://student.apps.utah.edu/uofu/stu/ClassSchedules/main/1244/description.html?subj=CS&catno=2100&section=001), Spring 2024 taught by Dr Pratik Soni and Prof. Mike Kirby.
 
 ## ACHIEVEMENTS AND PARTICIPATIONS:
 1. Awarded the ‘Aryabhata-HoMI Fellowship’ for research in Mathematics, May 2022 - August 2023.
