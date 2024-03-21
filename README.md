@@ -58,6 +58,9 @@ Studied Berry Phase and Berry Connection for discrete as well as continuum cases
 3. Attended and won the first prize for group presentation during Summer School on Econometrics and Machine
 Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 
+## CONFERENCE TALKS AND PUBLICATIONS:
+1. Presented a paper on 'Unveiling the Ancient Geometric Wisdom: A Comprehensive Study of Śulbasūtras with Emphasis on Mensuration' at International Conference on “Bharatiya Knowledge Traditions: Continuity and significance” , Central University of Gujarat, Gandhinagar, 1st February to 3rd February 2024.
+
 ## BLOGS AND WEBSITES:
 - [LinkedIn Profile](https://www.linkedin.com/in/ganesh-dharmadhikari-799963119/)
 - My YouTube Channel: [Utkalp Digital Classes](https://www.youtube.com/@UtkalpDigitalClasses)
