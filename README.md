@@ -19,7 +19,7 @@
 - Served as a technical committee member of ‘A Trimester Program on Triangle Groups, Belyi Uniformization, and Modularity’ to handle invitations, website, maintaining schedule, talks, and meetings.
 
 ## RESEARCH PROJECTS:
-### Some Problems in Number Fields
+### Some Problems in Number Fields | Master's Thesis | Advisor: [Dr Srilakshmi Krishnamoorthy](https://www.iisertvm.ac.in/faculty/srilakshmi)
 Studied Kummer Theory and worked on the refinement of Gauss’ Theorem on Primitive Roots. Also, solved
 the problem of balancing the centrifuge by drawing references from research papers on the vanishing sums of
 distinct roots of unity.
