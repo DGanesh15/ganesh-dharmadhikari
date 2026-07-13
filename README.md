@@ -3,7 +3,7 @@
 #### COMPUTATIONAL SKILLS: LaTeX, MATLAB, R, C, MATHEMATICA, SAGE, Python (NumPy, Pandas, basics of Tensorflow and Pytorch)
 
 ## EDUCATION:
-- PhD student, Computer Science | School of Computing, University of Utah (_August 2023_ - _Present_)								       				        		
+- MS, Computer Science | School of Computing, University of Utah (_August 2023_ - _May 2025_)								       				        		
 - B.S. & M.S., Mathematics | Indian Institute of Science Education and Research, Thiruvananthapuram (_July 2015_ - _July 2020_)
 
 ## PROFESSIONAL EXPERIENCE:
@@ -55,4 +55,4 @@ Learning held from June 7 - 11, 2022 at IGIDR, Mumbai.
 - [LinkedIn Profile](https://www.linkedin.com/in/ganesh-dharmadhikari-799963119/)
 - My YouTube Channel: [Utkalp Digital Classes](https://www.youtube.com/@UtkalpDigitalClasses)
 - My Blog: [ENRICHED?](https://samvganesh.blogspot.com/)
-- Email: ganesh15@cs.utah.edu
+- Email: ganeshdharmadhikari42@gmail.com
